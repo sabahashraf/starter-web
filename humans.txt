@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    jason taylor jason@git.training  @awesomejt
 
 # THANKS
 
